@@ -1,2 +1,2 @@
 # Automatic-Colorization-of-Images-using-Autoencoders
-Colorize grayscale images to Lab color space with Convolutional Autoencoders.
+TensorFlow program to colorize grayscale images into Lab color space with Convolutional Autoencoders.
